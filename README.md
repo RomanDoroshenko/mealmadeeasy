@@ -1,3 +1,3 @@
 # mealmadeeasy
-Meal planing and managing
+Meal planing and managing. For now template in progress...
 ============================
